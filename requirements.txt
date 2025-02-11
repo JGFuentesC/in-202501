@@ -1,0 +1,7 @@
+pandas
+jupyter
+scipy
+matplotlib
+seaborn
+cufflinks 
+woe-credit-scoring
