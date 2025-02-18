@@ -1,0 +1,6 @@
+jupyter
+pandas
+sqlalchemy
+uuid
+openpyxl
+xlrd

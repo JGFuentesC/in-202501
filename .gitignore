@@ -1,3 +1,6 @@
-**/.venv/
-ibm_card_txn/
-.ipynb_checkpoints/
+**/.venv
+**/ibm_card_txn
+**/*.pkl
+**/*.json
+**/*.tar.gz
+**/.DS_Store
