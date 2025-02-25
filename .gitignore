@@ -4,3 +4,4 @@
 **/*.json
 **/*.tar.gz
 **/.DS_Store
+**/*.bak
